@@ -1,2 +1,0 @@
-# BlogBackend
-Created with CodeSandbox
